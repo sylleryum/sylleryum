@@ -1,5 +1,5 @@
-Fullstack for love;
-building free projects for charity/help the needed and for fun;
+Fullstack for love;<br>
+building free projects for charity/help the needed and for fun;<br>
 Development instructor for college fresher;
 
 
